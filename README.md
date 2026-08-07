@@ -10,41 +10,6 @@
 
 [**Browse & Search on our Website**](https://public-api-lists.github.io/public-api-lists/) | [**JSON API**](https://public-api-lists.github.io/public-api-lists/api/all.json) | [**Contributing Guide**](.github/CONTRIBUTING.md) | [**Sponsor**](.github/SPONSORS.md)
 
-## ✨ Sponsors
-
-> This project is maintained by volunteers. Sponsoring helps keep the list alive, maintained, and ad-free.
-> Interested in sponsoring? See [SPONSORS.md](.github/SPONSORS.md) for details.
-
-### 🥇 Gold Sponsors
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://serpapi.com/?utm_source=public-api-lists">
-        <img src="assets/serpapi.png" width="800" alt="SerpApi"><br/>
-        <b>SerpApi</b>
-      </a>
-      <br/>Scrape Google and other search engines with a simple API
-    </td>
-  </tr>
-  <!-- Add more Gold sponsors here -->
-</table>
-
-### 🥈 Silver Sponsors
-
-<!-- Silver sponsors get a logo + one-line description -->
-
-<a href="https://www.atlascloud.ai/?utm_source=github&utm_medium=link&utm_campaign=public-api-lists">
-  <img src="assets/atlas-cloud.png" width="150" alt="Atlas Cloud">
-</a>
-
-**[Atlas Cloud](https://www.atlascloud.ai/?utm_source=github&utm_medium=link&utm_campaign=public-api-lists)** — AI API aggregation platform with OpenAI-compatible chat completions, image and video generation
-
-### 🥉 Bronze Sponsors
-
-<!-- Bronze sponsors get a text link -->
-
-*Become a Bronze Sponsor — [learn more](.github/SPONSORS.md)*
 
 ## Index
 
