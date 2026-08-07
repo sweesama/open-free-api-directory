@@ -9,7 +9,7 @@ Here you can find a collection of free OpenAI API keys for your projects. Feel f
 1. Copy any of the API keys below.
 2. Use the key in your OpenAI API requests.
 3. Enjoy the power of OpenAI for free!
-## GIVE ME A STAR TO SUPPORT ME OR BY ME A COFFEE
+## GIVE ME A STAR TO SUPPORT ME
 ## API Keys
 
 
